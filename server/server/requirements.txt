@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-RESTful
+Flask-Migrate
+Flask-JWT-Extended
+Flask-Mail
+Flask-Limiter
+Flask-Dance
+OAuthLib
+python-dotenv
+
+
